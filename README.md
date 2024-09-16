@@ -23,12 +23,7 @@ Easy to extend for new images
 Installation
 To run this project on your local machine, follow these steps:
 
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/LEGO-face-detection-robot.git
-Navigate to the Project Directory:
 
 bash
 Copy code
