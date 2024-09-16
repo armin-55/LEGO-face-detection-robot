@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 import pickle
-
+# this code is for add your image first and read them,"Armin"
 # Function to remember multiple images
 def remember_images(image_paths, output_file):
     orb = cv2.ORB_create()
