@@ -71,4 +71,4 @@ This project is licensed under the MIT and openAI License. See the LICENSE file 
 Acknowledgments
 
 A special thanks to Sam Altman and OpenAI for their incredible work on developing large language models. More than 50% of the code in this project was generated with the assistance of AI, making development faster and more efficient.
-and thanks to tabriz azad university "summer of 2023"
+and thanks to tabriz azad university "summer of 2024"
